@@ -153,21 +153,21 @@ html, body{
 #one{
     width: 80px;
     height: 45px;
-    background-image: url('/bluegirl.jpg');
+    background-image: url('./images/bluegirl.webp');
     background-size: cover;
     background-position: 0% 60%;
 }
 #two{
     width: 120px;
     height: 50px;
-    background-image: url('/shaljam.jpg');
+    background-image: url('./images/shaljam.webp');
     background-size: cover;
     background-position: 0% 51%;
 }
 #three{
     width: 80px;
     height: 45px;
-    background-image: url('/grass.jpg');
+    background-image: url('./images/grass.webp');
     background-size: cover;
     background-position: 0% 60%;
 }
